@@ -5,11 +5,17 @@
     }
 }
 
-/* @media only screen and (min-width:688px) and (max-width:992px) {
-    .icon {
 
-        width: 100%;
-
+@media(min-width:900px) {
+    #view-all {
+        visibility: hidden;
 
     }
-} */
+}
+
+@media(max-width:900px) {
+    #view-mobile {
+        visibility: hidden;
+
+    }
+}
