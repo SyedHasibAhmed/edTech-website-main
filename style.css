@@ -1,0 +1,14 @@
+@media(max-width:900px) {
+    .hide-kote-chai {
+        visibility: hidden;
+    }
+}
+
+/* @media only screen and (min-width:688px) and (max-width:992px) {
+    .icon {
+
+        width: 100%;
+
+
+    }
+} */
